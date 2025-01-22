@@ -43,8 +43,7 @@ These metrics indicate that the model can reliably detect people (high mAP@0.5) 
 ## Building the Docker Image
 
 > **Note**: This setup assumes **GPU acceleration**. Ensure:
-> - You have [NVIDIA drivers](https://docs.nvidia.com/datacenter/tesla/tesla-installation-notes/index.html) installed on the host,  
-> - [NVIDIA Container Toolkit](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/install-guide.html) is set up,  
+> - You have [NVIDIA drivers](https://docs.nvidia.com/datacenter/tesla/tesla-installation-notes/index.html) installed on the host, 
 > - You have a compatible GPU.
 
 1. Clone or copy the repository files into a folder.
